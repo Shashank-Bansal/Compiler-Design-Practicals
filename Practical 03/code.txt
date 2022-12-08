@@ -1,0 +1,21 @@
+// Practical-3
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    /* it is a
+    multi commet */
+
+    int i; // integer variable
+
+    /* code of multiple
+    operations */
+    i = 2;
+    i += i * i;
+	
+    cout << i; // print
+
+    return 0;
+}
+end

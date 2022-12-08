@@ -1,0 +1,1 @@
+Program to check the acceptance of a string by a DFA.
